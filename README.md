@@ -1,4 +1,4 @@
-# Lab---RE-Bingo
+# Lab-RE-Bingo
 《X86-SOFTWARE-REVERSE-ENGINEERING-CRACKING-AND-COUNTER-MEASURES》这本书有个实验，
 Lab - RE Bingo
 这个实验我没有在网上找到答案，自己试着做了，感觉有好多种可能，比如i_exo_f_wxo_wx_fo_i，这个比较接近。
